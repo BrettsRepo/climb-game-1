@@ -13,7 +13,7 @@ namespace fun1
     public partial class Form1 : Form
     {
         int MaxFormSize = 600;
-        int GravitySpeed = 15;
+        int GravitySpeed = 5;
         int PlayerSpeed = 7;
         int PlayerSize = 20;
         int HeartBeatInterval = 25;
